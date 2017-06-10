@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "title": "Weapon Bag",
+  },
+   "description":"Item needed to return home.",
+   "slug": "Weapon_bag"
+   "stackable": false,
+  {
+    "id": 1,
+    "title": "Medic Kit",
+  },
+   "description":"Item needed to heal your health.",
+   "slug": "Medic_kit",
+   "stackable": true,
+  {
+    "id": 2,
+    "title": "",
+  },
+   "description":"",
+   "slug": "",
+   "stackable":,
+  {
+    "id": 3,
+    "title": "",
+  },
+   "description":"",
+   "slug": "",
+   "stackable":,
+  {
+    "id": 4,
+    "title": "",
+  },
+   "description":"",
+   "slug": "",
+   "stackable":,
+  {
+    "id": 5,
+    "title": "",
+  },
+   "description":"",
+   "slug": "",
+   "stackable":,
